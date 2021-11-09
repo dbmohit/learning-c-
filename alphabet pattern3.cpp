@@ -28,3 +28,10 @@ int main() {
     }
 	return 0;
 }
+
+/* output:-
+ABCD
+BCDE
+CDEF
+DEFG
+for n = 4
