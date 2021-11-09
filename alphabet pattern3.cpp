@@ -34,4 +34,4 @@ ABCD
 BCDE
 CDEF
 DEFG
-for n = 4
+for n = 4*/
