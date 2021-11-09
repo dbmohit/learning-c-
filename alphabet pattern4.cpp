@@ -23,3 +23,11 @@ int main(){
     }
     
 }
+/*
+output:- 
+A
+BB
+CCC
+DDDD
+for n = 4
+*/
