@@ -19,3 +19,11 @@ int main(){
     }
     
 }
+/*
+output:-
+A
+BC
+CDE
+DEFG
+for n = 4
+*?
